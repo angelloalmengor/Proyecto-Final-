@@ -1,0 +1,67 @@
+Descripción Modelo,Calidad de Predicción
+Análisis de discriminante cuadrático Hyper 4,0.9
+LGBM Hyper 2,0.8789808917197452
+Regresión Logística Hyper 4,0.8726114649681529
+Naive Bayes Hyper 1,0.87
+Regresión Logística Hyper 5,0.8662420382165605
+daBoost Hyper 2,0.8662420382165605
+Random Forest General Hyper 4,0.8662420382165605
+Regresión Logística General,0.8662420382165605
+Regresión Logística Hyper 1,0.8662420382165605
+Random Forest General Hyper 1,0.8662420382165605
+Análisis de discriminante lineal Hyper 2,0.8598726114649682
+Random Forest General Hyper 2,0.8598726114649682
+daBoost Hyper 3,0.8598726114649682
+Random Forest General Hyper 5,0.8598726114649682
+XGBoost Hyper 2,0.8598726114649682
+Análisis de discriminante lineal Hyper 1,0.8598726114649682
+Análisis de discriminante lineal Hyper 2,0.8598726114649682
+Regresión Logística Hyper 3,0.8598726114649682
+Análisis de discriminante lineal Hyper 3,0.8598726114649682
+LDA Hyper 5,0.8598726114649682
+LDA Hyper 4,0.8598726114649682
+LDA Hyper 3,0.8598726114649682
+LDA Hyper 2,0.8598726114649682
+LDA Hyper 1,0.8598726114649682
+LDA General,0.8598726114649682
+Análisis de discriminante lineal Hyper 4,0.8598726114649682
+Random Forest General,0.8598726114649682
+LGBM Hyper 3,0.8535031847133758
+Naive Bayes General,0.85
+Random Forest General Hyper 3,0.8471337579617835
+LGBM Hyper 1,0.8471337579617835
+LGBM Hyper 4,0.8471337579617835
+LGBM General,0.8471337579617835
+Análisis de discriminante cuadrático Hyper 1,0.8407643312101911
+SVM Hyper 1,0.8407643312101911
+Regresión Logística Hyper 2,0.8407643312101911
+XGBoost Hyper 1,0.8343949044585988
+daBoost Hyper 1,0.8280254777070064
+Gradient Boosting Hyper 1,0.8280254777070064
+LGBM Hyper 5,0.8280254777070064
+Gradient Boosting Hyper 5,0.821656050955414
+Gradient Boosting General,0.821656050955414
+Gradient Boosting Hyper 4,0.821656050955414
+Gradient Boosting Hyper 3,0.821656050955414
+Gradient Boosting Hyper 2,0.821656050955414
+Análisis de discriminante lineal General,0.821656050955414
+DaBoost General,0.821656050955414
+XGBoost Hyper 5,0.8152866242038217
+XGBoost Hyper 3,0.8152866242038217
+Árboles de Decisión General Hyper 2,0.8089171974522293
+Árboles de Decisión General Hyper 4,0.8089171974522293
+XGBoost Hyper 4,0.8089171974522293
+XGBoost General,0.8089171974522293
+Árboles de Decisión General,0.8089171974522293
+Árboles de Decisión General Hyper 3,0.802547770700637
+Árboles de Decisión General Hyper 5,0.7961783439490446
+Análisis de discriminante cuadrático,0.7898089171974523
+Análisis de discriminante cuadrático Hyper 2,0.7898089171974523
+Análisis de discriminante cuadrático Hyper 3,0.7898089171974523
+Naive Bayes Hyper 2,0.7770700636942676
+Árboles de Decisión General Hyper 1,0.7707006369426752
+SVM Hyper 2,0.6942675159235668
+SVM Hyper 4,0.6878980891719745
+SVM Hyper 3,0.6878980891719745
+SVM General,0.6878980891719745
+SVM Hyper 5,0.6878980891719745
